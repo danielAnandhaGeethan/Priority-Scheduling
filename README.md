@@ -10,4 +10,4 @@ This application implements a priority scheduling algorithm to efficiently manag
 
 *Easy Appointment Addition* : Adding a new appointment is a straightforward process. The user simply provides the necessary details for the appointment, and the system automatically                                assigns an appropriate priority.
 
-#### *User-Friendly Interface* #### : The application provides an intuitive and user-friendly interface for users to interact with. Users can easily view, edit, or remove appointments through                              a well-designed graphical interface.
+*User-Friendly Interface* : The application provides an intuitive and user-friendly interface for users to interact with. Users can easily view, edit, or remove appointments through                              a well-designed graphical interface.
